@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prototip/pn-p-instrukcziya/","tags":["корпорация","прототип","пнп"],"dg-note-properties":{"tags":["корпорация","прототип","пнп"]}}
+{"dg-publish":true,"permalink":"/prototip/pn-p-instrukcziya/","tags":["корпорация","прототип","пнп","бэкенд"],"dg-note-properties":{"tags":["корпорация","прототип","пнп","бэкенд"]}}
 ---
 
 
